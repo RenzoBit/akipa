@@ -1,0 +1,7 @@
+table#lista-platos img.imagen-plato{
+	height: 30px;
+}
+
+.editar-plato img.imagen-plato{
+	width: 200px;
+}
