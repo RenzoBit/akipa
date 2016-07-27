@@ -41,7 +41,8 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
+//$db['default']['hostname'] = 'localhost';
+$db['default']['hostname'] = 'stevie.heliohost.org';
 $db['default']['username'] = 'rvilela_android';
 $db['default']['password'] = '123abc';
 $db['default']['database'] = 'rvilela_akipa';
